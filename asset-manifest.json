@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/marketplace.github.io/static/css/main.c8735fb5.chunk.css",
-    "main.js": "/marketplace.github.io/static/js/main.9c8fe6ea.chunk.js",
-    "main.js.map": "/marketplace.github.io/static/js/main.9c8fe6ea.chunk.js.map",
+    "main.js": "/marketplace.github.io/static/js/main.241ebe09.chunk.js",
+    "main.js.map": "/marketplace.github.io/static/js/main.241ebe09.chunk.js.map",
     "runtime-main.js": "/marketplace.github.io/static/js/runtime-main.b2025b09.js",
     "runtime-main.js.map": "/marketplace.github.io/static/js/runtime-main.b2025b09.js.map",
     "static/js/2.528468bb.chunk.js": "/marketplace.github.io/static/js/2.528468bb.chunk.js",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.b2025b09.js",
     "static/js/2.528468bb.chunk.js",
     "static/css/main.c8735fb5.chunk.css",
-    "static/js/main.9c8fe6ea.chunk.js"
+    "static/js/main.241ebe09.chunk.js"
   ]
 }
