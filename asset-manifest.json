@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/marketplace.github.io/static/css/main.c8735fb5.chunk.css",
+    "main.js": "/marketplace.github.io/static/js/main.9c8fe6ea.chunk.js",
+    "main.js.map": "/marketplace.github.io/static/js/main.9c8fe6ea.chunk.js.map",
+    "runtime-main.js": "/marketplace.github.io/static/js/runtime-main.b2025b09.js",
+    "runtime-main.js.map": "/marketplace.github.io/static/js/runtime-main.b2025b09.js.map",
+    "static/js/2.528468bb.chunk.js": "/marketplace.github.io/static/js/2.528468bb.chunk.js",
+    "static/js/2.528468bb.chunk.js.map": "/marketplace.github.io/static/js/2.528468bb.chunk.js.map",
+    "index.html": "/marketplace.github.io/index.html",
+    "static/css/main.c8735fb5.chunk.css.map": "/marketplace.github.io/static/css/main.c8735fb5.chunk.css.map",
+    "static/js/2.528468bb.chunk.js.LICENSE.txt": "/marketplace.github.io/static/js/2.528468bb.chunk.js.LICENSE.txt",
+    "static/media/5efbd0e39f63c.4e7f510f.png": "/marketplace.github.io/static/media/5efbd0e39f63c.4e7f510f.png",
+    "static/media/5efbd1214ce88.16fc560c.png": "/marketplace.github.io/static/media/5efbd1214ce88.16fc560c.png",
+    "static/media/5efbd3b6b6f3d.67a16808.png": "/marketplace.github.io/static/media/5efbd3b6b6f3d.67a16808.png",
+    "static/media/5efbd3ffa7390.75512d43.png": "/marketplace.github.io/static/media/5efbd3ffa7390.75512d43.png",
+    "static/media/5efbd4394e1fe.71790b33.png": "/marketplace.github.io/static/media/5efbd4394e1fe.71790b33.png",
+    "static/media/5efbd491488f7.fd7f61bc.png": "/marketplace.github.io/static/media/5efbd491488f7.fd7f61bc.png",
+    "static/media/Apples_dmwvrq.5d510d9a.png": "/marketplace.github.io/static/media/Apples_dmwvrq.5d510d9a.png",
+    "static/media/Cucumber_w6hlxr.5019ea4b.png": "/marketplace.github.io/static/media/Cucumber_w6hlxr.5019ea4b.png",
+    "static/media/GreenLimes_jrodle.b459d273.png": "/marketplace.github.io/static/media/GreenLimes_jrodle.b459d273.png",
+    "static/media/home.module.css": "/marketplace.github.io/static/media/vegetables.4c3c0790.png",
+    "static/media/Mangoes_ruaapa.52d8cd00.png": "/marketplace.github.io/static/media/Mangoes_ruaapa.52d8cd00.png",
+    "static/media/MiniPeppers_iydh8m.5dcd22ce.png": "/marketplace.github.io/static/media/MiniPeppers_iydh8m.5dcd22ce.png",
+    "static/media/Peeled_Carrots_xx7mjo.844dc6c4.png": "/marketplace.github.io/static/media/Peeled_Carrots_xx7mjo.844dc6c4.png",
+    "static/media/Poppins.44ee7912.woff": "/marketplace.github.io/static/media/Poppins.44ee7912.woff",
+    "static/media/Poppins.7a1a8382.woff2": "/marketplace.github.io/static/media/Poppins.7a1a8382.woff2",
+    "static/media/Yellow_Limes_y0lbyo.ace2f9ce.png": "/marketplace.github.io/static/media/Yellow_Limes_y0lbyo.ace2f9ce.png",
+    "static/media/banner.dfeccfbe.png": "/marketplace.github.io/static/media/banner.dfeccfbe.png",
+    "static/media/oil_1_2_3_vegitable.4f0ea931.png": "/marketplace.github.io/static/media/oil_1_2_3_vegitable.4f0ea931.png",
+    "static/media/resetpassword.module.css": "/marketplace.github.io/static/media/sign-in.b551331a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2025b09.js",
+    "static/js/2.528468bb.chunk.js",
+    "static/css/main.c8735fb5.chunk.css",
+    "static/js/main.9c8fe6ea.chunk.js"
+  ]
+}
